@@ -26,7 +26,7 @@
       Creative Commons (Attribution 3.0 Unported);
       https://www.iconfinder.com/webalys
     -->
-  <header>
+  <header class="w-75 mx-auto">
     <nav class="navbar navbar-expand-lg navbar-light">
       <!--
       https://www.iconfinder.com/icons/185106/armchair_chair_streamline_icon
@@ -51,13 +51,14 @@
           <li class="nav-item mx-2">
             <a href="schoolactivities.html" class="nav-link">School Activities</a>
           </li>
+          <li class="nav-item mx-2">
+              <a href="news.html" class="nav-link">News</a>
+          </li>
         </ul>
       </div>
     </nav>
     <!-- end of nav-->
   </header>
-
-
 
   <section>
     <div class="container-fluid w-75">
@@ -103,10 +104,10 @@
 
 
     </div>
+
   </section>
 
-
-  <footer class="bg-dark px-5">
+  <footer class="bg-dark px-5 w-75 mx-auto">
     <div class="container-fluid">
       <div class="row text-light py-4">
         <div class="col-lg-4 col-sm-6">
@@ -159,8 +160,6 @@
       </div>
     </div>
   </footer>
-
-
 
   <!-- jquery -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
